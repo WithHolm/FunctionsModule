@@ -1,0 +1,2 @@
+autoupdate from http://www.unicode.org/Public/UNIDATA/UnicodeData.txt
+add http://www.unicode.org/Public/UNIDATA/PropertyValueAliases.txt
